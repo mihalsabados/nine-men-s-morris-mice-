@@ -1,1 +1,2 @@
-# nine-men-s-morris-mice-
+# Nine Men's Morris (mice)
+Prvi projekat iz Algoritama i Struktura Podataka koji je pravljen u Python-u. Aplikacija je konzolna i postoje tri režima: player vs player, player vs ai, ai vs hackerrank ai. Prva dva režima su u fajlu ASP-Projekat1 a treći u drugom folderu koji je predviđen za Hackerrank takmičenje. Korišćene strukture podataka su Stabla i HashMape, algoritam za pretragu je minimax sa alfa-beta pretragom. 
